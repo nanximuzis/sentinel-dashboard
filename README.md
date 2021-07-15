@@ -1,4 +1,4 @@
-# Sentinel 控制台
+# Sentinel 控制台集成Gateway通过Nacos动态规则改造
 
 ## 0. 概述
 
